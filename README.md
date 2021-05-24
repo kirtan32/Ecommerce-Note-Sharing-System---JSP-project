@@ -2,15 +2,16 @@
 Project based on Java Servlets
 
 Tools and Technology
-● Technology Stack
-    JDBC
-    JSP/Servlets
-    Tomcat Server
-    HTML/CSS/Bootstrap
-    Javascript
-    MYSQL
-    File Management at Server side
 
+● Technology Stack
+-   JDBC
+-   JSP/Servlets
+-   Tomcat Server
+-   HTML/CSS/Bootstrap
+-   Javascript
+-   MYSQL
+-   File Management at Server side
+    
 Problem Definition
 -   While studying in the university, students find it too difficult to manage their notes of
     each and every subject. They can't manage to get all the topics related to the
